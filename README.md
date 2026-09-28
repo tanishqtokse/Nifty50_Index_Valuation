@@ -41,8 +41,6 @@ Calculate Cost of Equity
         ↓
 Terminal Value
         ↓
-Discount Future Cash Flows
-        ↓
 Intrinsic Value of NIFTY 50
 ```
 
@@ -50,12 +48,12 @@ Intrinsic Value of NIFTY 50
 
 | **Valuation Driver**      | **Value** |
 | ------------------------- | --------- |
-| NIFTY 50 Market Level     | —         |
-| Risk-Free Rate            | —         |
-| Equity Risk Premium       | —         |
-| Cost of Equity            | —         |
-| Estimated Intrinsic Value | —         |
-| Upside / Downside         | —         |
+| NIFTY 50 Market Level     | 23995.95  |
+| Risk-Free Rate            | 6.84%     |
+| Equity Risk Premium       | 1.68%     |
+| Cost of Equity            |8.52%      |
+| Estimated Intrinsic Value |29600.82   |
+| Upside                    |23.36%     |
 
 ---
 
